@@ -56,5 +56,8 @@
       "post-rewrite": "npm update"
     }
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {}
 }
