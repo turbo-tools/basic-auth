@@ -33,8 +33,8 @@ It also sets the `WWW-Authenticate` header to `Basic realm="example"` by default
 ```js
 const check = require('@turbo-tools/basic-auth')
 const isValid = check(request, response, [['user1', 'pass1'], ['user2', 'pass2']])
-// if an `Authorization` is given, it checks for every combination in the array given,
-// if it finds a matching pair, it returns true, otherwise false
+// if an `Authorization` header is given, it checks for every combination in the array,
+// if it finds a matching pair, it returns `true` otherwise `false`
 ```
 
 ### With turbo-http server
