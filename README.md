@@ -14,6 +14,7 @@ Pluggable Basic Auth functionality for [turbo-http](https://github.com/mafintosh
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Greenkeeper badge](https://badges.greenkeeper.io/greenkeeperio/greenkeeper.svg)](https://greenkeeper.io/)
+[![Known Vulnerabilities](https://snyk.io/test/github/turbo-tools/basic-auth/badge.svg?targetFile=package.json)](https://snyk.io/test/github/turbo-tools/basic-auth?targetFile=package.json)
 
 ## Getting Started
 
